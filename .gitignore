@@ -1,3 +1,4 @@
 .env
 cred.json
 add_data.py
+vercel.json
