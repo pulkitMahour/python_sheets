@@ -2,3 +2,4 @@
 cred.json
 add_data.py
 vercel.json
+.streamlit/secrets.toml
